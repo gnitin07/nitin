@@ -16,10 +16,11 @@ const HeroSection: React.FC = () => {
           Hi, my name is Priyanshu Gupta
         </h1>
         <p className="mt-4 text-base md:text-xl text-zinc-600">
-          I’m a passionate software developer with expertise in building
-          responsive web applications. I enjoy turning complex problems into
-          simple, beautiful, and intuitive designs. Let&apos;s work together to
-          create something amazing!
+          I&apos;m a Frontend Engineer with 3+ years of experience building
+          scalable enterprise applications with React.js, Next.js, and
+          TypeScript — from collaborative media review platforms and canvas
+          annotation engines to PDF viewers and role-based dashboards.
+          Let&apos;s work together to create something amazing!
         </p>
         {/* Know More Button */}
         {/* <button className="btn btn-primary mt-5 flex items-center">

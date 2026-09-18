@@ -12,6 +12,9 @@ import {
   SiTailwindcss,
   SiGithub,
   SiAntdesign,
+  SiCloudflare,
+  SiGreensock,
+  SiFramer,
 } from "react-icons/si";
 import { TbBrandNextjs, TbBrandRedux } from "react-icons/tb";
 import { RiCss3Fill } from "react-icons/ri";
@@ -111,6 +114,21 @@ const Skills: React.FC = () => {
       title: "Ant Design",
       icon: <SiAntdesign className="text-blue-500" />,
       link: "https://ant.design/",
+    },
+    {
+      title: "Cloudflare",
+      icon: <SiCloudflare className="text-orange-500" />,
+      link: "https://www.cloudflare.com/",
+    },
+    {
+      title: "GSAP",
+      icon: <SiGreensock className="text-green-500" />,
+      link: "https://gsap.com/",
+    },
+    {
+      title: "Motion",
+      icon: <SiFramer className="text-black dark:text-white" />,
+      link: "https://motion.dev/",
     },
   ];
 

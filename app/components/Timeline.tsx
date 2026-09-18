@@ -3,28 +3,36 @@ import React from "react";
 const Timeline: React.FC = () => {
   const experiences = [
     {
-      title: "Front End Developer",
-      company: "Bapa sita innovation and technologies",
-      location: "Gujarat, Vadodara",
-      date: "06/2024 - Present",
+      title: "Frontend Engineer",
+      company: "Intigly",
+      location: "Bangalore, India",
+      date: "08/2025 - Present",
       description:
-        "Led the design and development of the complete architecture for rgav.in, a fully functional eCommerce website specializing in Ayurvedic products.",
+        "Solely designed and built the frontend of an enterprise media review platform — threaded comments, voice messages, canvas annotations, version comparison and a PDF viewer across video, image, audio and documents.",
+    },
+    {
+      title: "Front End Developer",
+      company: "Bapa Sitaram Innovation and Technologies",
+      location: "Vadodara, Gujarat",
+      date: "10/2023 - 07/2025",
+      description:
+        "Led a Solar Management System with role-based access control, dynamic quotation generation and PDF handling, plus an eCommerce platform and admin panel for Ayurvedic products.",
     },
     {
       title: "React.js Developer",
       company: "Eshkon",
-      location: "Gujarat, Ahmedabad",
-      date: "07/2023 - 06/2024",
+      location: "Remote",
+      date: "07/2023 - 09/2023",
       description:
-        "Spearheaded the development and maintenance of over 20 custom, reusable UI components using Next.js, TypeScript, and Redux.",
+        "Built 30+ reusable UI components with Next.js, TypeScript and Redux, integrated Contentful headless CMS and shipped an SEO-optimised Next.js application with dynamic page generation.",
     },
     {
       title: "Front End Developer",
-      company: "Echnotech pvt ltd",
-      location: "Karnataka, Bangalore",
-      date: "01/2023 - 06/2023",
+      company: "Echnotech Pvt Ltd",
+      location: "Bangalore, Karnataka",
+      date: "04/2023 - 06/2023",
       description:
-        "Led the development of highly responsive and user-centric web applications using React, Redux, JavaScript, HTML5, and Material-UI.",
+        "Built responsive applications with React, Redux and Material-UI, including dynamic tables with filtering, search and pagination, and a Delivery Partner Management System with KYC and order tracking.",
     },
   ];
 
